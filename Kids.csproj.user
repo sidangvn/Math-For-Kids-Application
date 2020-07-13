@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="CummuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CummuResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DivideForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DivideFormResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormOption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MinusForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MinusFormResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MultiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MultiFormResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PlusForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PlusFromResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

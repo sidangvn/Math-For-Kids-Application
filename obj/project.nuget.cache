@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "F9qUeMQVFadXzw39qjwUDLy61nLrP6WQf+5rOUcet8NQtYdIwx672a2Ep/lyZCFwP9/2qPRlkUA96SOFWVX5tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sidan\\source\\repos\\Kids\\Kids.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sidan\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\2.9.6\\microsoft.codeanalysis.fxcopanalyzers.2.9.6.nupkg.sha512",
+    "C:\\Users\\sidan\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\2.9.6\\microsoft.codeanalysis.versioncheckanalyzer.2.9.6.nupkg.sha512",
+    "C:\\Users\\sidan\\.nuget\\packages\\microsoft.codequality.analyzers\\2.9.6\\microsoft.codequality.analyzers.2.9.6.nupkg.sha512",
+    "C:\\Users\\sidan\\.nuget\\packages\\microsoft.netcore.analyzers\\2.9.6\\microsoft.netcore.analyzers.2.9.6.nupkg.sha512",
+    "C:\\Users\\sidan\\.nuget\\packages\\microsoft.netframework.analyzers\\2.9.6\\microsoft.netframework.analyzers.2.9.6.nupkg.sha512",
+    "C:\\Users\\sidan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
