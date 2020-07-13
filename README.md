@@ -5,6 +5,6 @@ Studying basic math problems for kids
   - Multiple
   - Divide
 
-GUI application
-Language used: English (US)
+GUI application,
+Language used: English (US),
 Programming Language: C#
